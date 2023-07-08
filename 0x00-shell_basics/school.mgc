@@ -1,2 +1,2 @@
 #!/bin/bash
-file -m school.mgc -p school=offset 0
+file -c school.mgc -p offset0=school
